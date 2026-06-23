@@ -1,0 +1,6 @@
+1 Rohith Male 28 1.20 2 IT
+2 Rahul Male 25 1.25 2 HR
+3 Charan Male 35 1.50 10 IT
+4 Gayathri Female 25 1.40 2 HR
+5 Kamala Female 28 1.30 3 SALES
+
